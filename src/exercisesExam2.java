@@ -1,4 +1,4 @@
-public class exercisesForExam2 {
+public class exercisesExam2 {
     private String name;
     private int[] points;
     private int[] rebounds;
