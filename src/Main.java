@@ -52,7 +52,7 @@ public class Main {
                 return getLowerSalaryExpectation(candidates,type);
             }
     }
-    public static String getMaxTrippleDoubler(exercisesExam2[] players){
+    public static String getMaxTrippleDoubler(Basketballer[] players){
         int max=0;
         String name=players[0].getName();
         for(int i=0;i<players.length;i++){
